@@ -94,6 +94,8 @@ GEM
     erubi (1.10.0)
     execjs (2.8.1)
     ffi (1.15.3)
+    font-awesome-sass (5.15.1)
+      sassc (>= 1.11)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     i18n (1.8.10)
@@ -246,6 +248,7 @@ DEPENDENCIES
   carrierwave
   chromedriver-helper
   coffee-rails (~> 4.2)
+  font-awesome-sass
   jbuilder (~> 2.5)
   jquery-rails
   jquery-ui-rails
